@@ -1,0 +1,11 @@
+mkdir distributed-ecommerce-microservices
+cd distributed-ecommerce-microservices
+
+mkdir service-registry
+mkdir config-server
+mkdir api-gateway
+mkdir common-library
+mkdir order-service
+mkdir inventory-service
+mkdir payment-service
+mkdir notification-service
