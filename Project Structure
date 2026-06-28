@@ -1,0 +1,14 @@
+distributed-ecommerce-microservices/
+│── pom.xml
+│── .gitignore
+│── README.md
+│── docker-compose.yml
+│
+├── service-registry/
+├── config-server/
+├── api-gateway/
+├── common-library/
+├── order-service/
+├── inventory-service/
+├── payment-service/
+└── notification-service/
