@@ -1,0 +1,16 @@
+service-registry/
+│
+├── pom.xml
+├── Dockerfile
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── ecommerce/
+│   │   │           └── registry/
+│   │   │               └── ServiceRegistryApplication.java
+│   │   └── resources/
+│   │       ├── application.yml
+│   │       └── bootstrap.yml
+│   └── test/
+│       └── java/
